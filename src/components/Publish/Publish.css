@@ -1,0 +1,23 @@
+.ant-btn {
+    margin-right: 8px;
+}
+
+.ant-form-inline .ant-form-item {
+    margin-right: 8px;
+
+}
+
+.ant-upload.ant-upload-select {
+    display: flex;
+}
+
+.input-content-tight .ant-form-item-control {
+    display: flex;
+    align-content: stretch;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.ant-upload-list-item-name {
+    display: flex;
+}

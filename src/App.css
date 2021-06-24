@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.site-page-header-ghost-wrapper {
+  padding: 8px;
+  background-color: #7ab9e0;
+}
+
+.publish-container { padding: 10px;}
